@@ -1,6 +1,5 @@
-//Christian Lee P.5
-//Image Filter Project
-//AP Computer Science Principles
+//Christian Lee
+//Image Filter
 //4/3/2020
 
 boolean saved = false;
